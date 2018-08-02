@@ -1,5 +1,5 @@
 var SCRIPT_NAME = "Promotion Stalls Bound Script"
-var SCRIPT_VERSION = "v1.3"
+var SCRIPT_VERSION = "v1.4"
 
 var PROPERTIES = PropertiesService.getDocumentProperties()
 var LOCK = LockService.getDocumentLock()
